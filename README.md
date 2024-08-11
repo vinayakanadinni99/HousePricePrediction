@@ -1,1 +1,1 @@
-## End to End ML Project on House Price Predicion
+## End to End ML Project on Diabetes Prediction
